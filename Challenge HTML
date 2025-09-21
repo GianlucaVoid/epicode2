@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <title>presentazione Void Rider</title>
+</head>
+<body>
+    <h1>Salve a tutti mi presento io sono Gianluca per gli amici Void</h1>
+
+    <img src="https://img.freepik.com/vettori-gratuito/disegno-del-modello-di-logo-del-motociclista_23-2149947427.jpg?semt=ais_incoming&w=740&q=80" alt="foto di void" style="width: 300px;">
+    
+    <h2>Chi sono </h2>
+    <p>Lavoro da anni nel settore IT come tecnico hardware e help desk presso Mondo Convenienza, dove mi occupo di progetti complessi di sistemi e reti. Parallelamente, coltivo una grande passione per il mondo delle moto: sono il fondatore di Old City Army, un club motociclistico che unisce persone di tutte le età con i valori di fratellanza e libertà su due ruote. Oltre all’aspetto tecnico e creativo, sto costruendo anche un percorso personale sui social, condividendo esperienze, viaggi e progetti, con l’obiettivo di ispirare e connettere altre persone che condividono le mie stesse passioni</p>
+
+    <h3> Lista competenze.</h3>
+    <div> 
+        <ul>
+            <li>possessore di patente a3</li>
+            <li>appassionato di Intelligenza artificiale</li>
+            <li>prossimo sviluppatore Web grazie a <a href="https://epicode.com"><p>epicode</p></a> 
+        </ul>
+    </div>
+
+    <h5>Contatti</h5>
+    <h6><ul>
+        <p>telefono:3894697582</p>
+        <p>email: pirisi.gianluca1997@gmail.com</p>
+        <p>instagram: Void_Rider</p>
+        <p>Civitavecchia 00053</p>
+
+    </ul></h6>
+   
+</body>
+</html>
+</html5>
