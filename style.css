@@ -1,0 +1,23 @@
+/* Reset margini */
+body {
+    margin: 0; font-family: montserrat;
+  }
+  
+.main-section {padding: 20px;}
+  
+  
+.image-container {height: 800px; background: url("https://images.pexels.com/photos/1366957/pexels-photo-1366957.jpeg") bottom / cover no-repeat;}
+  
+h1 {font-family: prata; font-size: 64px; font-weight: 400; margin-bottom: 0;}
+h3 {font-family: prata; font-size: 24px; font-weight: 400; margin-top: 0; margin-bottom: 0;}
+h6 {padding: 22px; margin-bottom: 0px; margin-top: 56px; color: white; border-radius: 6px; background: linear-gradient(160deg,#fd0000, #07d8e3);}
+.autore {font-weight: 600; font-style: italic;}
+.city-list li {padding: 0; list-style: none; padding-top: 6px; padding-bottom: 6px; border-bottom: 2px solid #dfdfdf}
+.city-list a {text-decoration: none}
+.city-list a:visited {color: #eb0d0d;}
+footer .home {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    background-color: black;
+    color: #f1ebeb;}
